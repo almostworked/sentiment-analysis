@@ -1,0 +1,12 @@
+
+Sentiment Analysis:
+Avg_sentiment: -3.5
+Num_tweets: 2
+Num_positive: 0
+Num_negative: 1
+Num_neutral: 1
+Num_favorite: 1
+Avg_favorite: -7.0
+Num_retweet: 1
+Avg_retweet: -7.0
+Top_five: United States, Canada
